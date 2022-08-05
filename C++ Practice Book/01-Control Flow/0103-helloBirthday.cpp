@@ -1,3 +1,4 @@
+// 包含I/O流库iostream
 #include <iostream>
 
 // 加载名字空间std
