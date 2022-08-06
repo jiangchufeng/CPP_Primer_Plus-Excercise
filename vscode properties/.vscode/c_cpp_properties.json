@@ -3,7 +3,14 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "D:/VSCode/MinGW/mingw64/bin/**",
+                "D:/VSCode/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+                "D:/VSCode/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+                "D:/VSCode/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
+                "D:/VSCode/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
+                "D:/VSCode/MinGW/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+                "D:/VSCode/MinGW/mingw64/x86_64-w64-mingw32/include"
             ],
             "defines": [
                 "_DEBUG",
